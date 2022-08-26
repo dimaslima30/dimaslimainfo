@@ -8,7 +8,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Dimas-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="Dimas-python" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
-  <img align="center" alt="Dimas-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
   <img align="center" alt="Dimas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dimas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dimas-C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
