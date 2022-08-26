@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/dimaslima1299/"><i>Dimas Lima</i></a> 😃️</h1>
-  <p align="center">Estudo Ciência da computação na<a href="https://www.unipe.edu.br/"><i> UNIPÊ</i></a> e meu foco é no Back-End, mas também utilizo o Front com Desenvolvimento Web. Utilizo as linguagens Java e Python, e o framework SpringBoot.
+  <p align="center">Estudo Ciência da computação na<a href="https://www.unipe.edu.br/"><i> UNIPÊ</i></a> e meu foco é no Back-End, mas também utilizo o Front-End com Desenvolvimento Web. Minhas principais linguagens são Java e Python, e faço uso do framework SpringBoot para desenvolver com Java.
 </div>
 
 <h2>⚡ Status do meu git:</h2>
