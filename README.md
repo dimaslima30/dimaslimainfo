@@ -6,7 +6,7 @@
 <h2>⚡ Status do meu git:</h2>
 
 <div>
-  <a href="https://github.com/dimaslima30">
+  <a href="https://github.com/dimaslimainfo">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=dimaslima30&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimaslima30&theme=dark&hide_border=false&&layout=compact"/>
   </a>
@@ -22,6 +22,7 @@
   <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">    
   <img align="center" alt="HTML"   src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS"    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="CSS"    src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
  
 </div><br>
 
