@@ -1,5 +1,5 @@
 <div>
-  <h1 align="left">Oi, tudo bem? Eu sou <a href="https://www.linkedin.com/in/dimaslima1299/"><i>Dimas Lima</i></a> 😃️</h1>
+  <h1 align="left">Oi, tudo bem? Eu sou <a href="https://www.linkedin.com/in/dimaslima1299/"><i>Dimas Lima</i></a> </h1>
   <p align="left">Estudo Ciência da computação na<a href="https://www.unipe.edu.br/"><i> UNIPÊ</i></a> e meu foco é no Back-End. Minhas linguagens de programação mais utilizadas são Java e Python, e faço uso de ferramentos tais quais o SpringBoot framework e Banco de Dados MySQL.
 </div>
 
