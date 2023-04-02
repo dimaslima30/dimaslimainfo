@@ -1,6 +1,6 @@
 <div>
   <h1 align="left">Olá, tudo bem? Bem-vindo ao meu github. Eu me chamo <a href="https://www.linkedin.com/in/dimaslima1299/"><i>Dimas Lima</i></a> </h1>
-  <p align="left">Estudo Ciência da computação na<a href="https://www.unipe.edu.br/"><i> UNIPÊ</i></a> e meu foco é na área de testes e qualidade de software e no Back-End. Minhas linguagens de programação mais utilizadas são Java e Python, e faço uso de ferramentas tais quais o SpringBoot framework, Selenium webdriver e Banco de Dados MySQL.
+  <p align="left">Estudo Ciência da computação na<a href="https://www.unipe.edu.br/"><i> UNIPÊ</i></a> e meu foco é na área de testes e qualidade de software e no Back-End. Minhas linguagens de programação mais utilizadas são Java e Python, e faço uso de ferramentas tais quais o SpringBoot framework, Selenium webdriver, JUnit, RestAssured e SQL.
 </div>
 
 <h2>⚡ Status do meu git:</h2>
